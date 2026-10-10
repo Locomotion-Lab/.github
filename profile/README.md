@@ -38,7 +38,7 @@
 | PX4 仿真 | [px4-sim](https://github.com/Locomotion-Lab/px4-sim) | PX4 / MAVROS / Gazebo 的 Docker 仿真开发环境。 | `px4` · `simulation` |
 | STM32 固件 | [stm32-firmware](https://github.com/Locomotion-Lab/stm32-firmware) | STM32H743 飞控、状态估计与控制工程。 | `firmware` · `stm32` |
 | ESP32 固件 | [esp32-firmware](https://github.com/Locomotion-Lab/esp32-firmware) | ESP32-S3 Web 与串口数据采集控制。 | `esp32` · `firmware` |
-| 底盘遥控 | [scout_keyboard_control](https://github.com/Locomotion-Lab/scout_keyboard_control) | Scout 底盘 ROS 2 键盘遥控包。 | `controller` · `development` |
+| 底盘遥控 | [scout-keyboard-control](https://github.com/Locomotion-Lab/scout-keyboard-control) | Scout 底盘 ROS 2 键盘遥控包。 | `controller` · `development` |
 
 **按标签浏览**：[驱动 · driver](https://github.com/orgs/Locomotion-Lab/repositories?q=topic%3Adriver) · [仿真 · simulation](https://github.com/orgs/Locomotion-Lab/repositories?q=topic%3Asimulation) · [固件 · firmware](https://github.com/orgs/Locomotion-Lab/repositories?q=topic%3Afirmware) · [ROS 2 · ros2](https://github.com/orgs/Locomotion-Lab/repositories?q=topic%3Aros2) · [控制 · controller](https://github.com/orgs/Locomotion-Lab/repositories?q=topic%3Acontroller)
 
